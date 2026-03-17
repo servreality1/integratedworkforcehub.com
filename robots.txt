@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://integratedworkforcehub.com/sitemap.txt
